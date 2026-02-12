@@ -3,6 +3,8 @@
 int main() {
     int a, b, sum;
 
+
+    printf("Chiranth program");
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
 
